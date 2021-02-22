@@ -8,7 +8,11 @@
 }
 
 .color-dark {
-    background: cornflowerblue;
+    background: #2885c4;
+}
+
+.color-light {
+    background: #57b3f1;
 }
 
 input.txt {
@@ -22,13 +26,13 @@ input.btn {
     border: 0;
     display: block;
     padding: 1em 3em;
-    background: darkgreen;
-    color: darkblue;
+    background: #a5f883;
+    color: #003a61;
     margin-bottom: 1em;
 }
 
 .life-container {
-    background: darkcyan;
+    background: #3fa0e1;
     padding: -5em;
     font-weight: bold;
     cursor: pointer;
